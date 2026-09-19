@@ -1,0 +1,3 @@
+# LuminaLens
+
+LuminaLens is a high-resolution visual discovery web application designed to help creators, designers, and photography enthusiasts search and explore curated imagery from around the world. I implemented an empty-state visual with interactive category suggestion chips so first-time visitors immediately understand how to engage with the engine and can explore popular themes in a single tap. Additionally, I chose a sticky glassmorphism header paired with a deep obsidian and warm amber palette to keep navigation accessible during future infinite scrolling while providing a high-contrast backdrop that allows photographic results to take center stage.
